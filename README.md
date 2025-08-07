@@ -20,15 +20,15 @@
 
 | 진행 기간 | 프로젝트명 | 사용 기술 | 장르 |
 | --- | --- | --- | --- |
-| 2025 | [ProceduralWorld - 3D WFC System](https://www.notion.so/ProceduralWorld-3D-WFC-System-2486bb7765ae8160b482e0f98728ff7d) | `언리얼5` | 시뮬레이션 |
-| 2024 | [WFC2D - Wave Function Collapse 2D 지형 생성기](https://www.notion.so/WFC2D-Wave-Function-Collapse-2D-2486bb7765ae81489cbbfb3742e6da64) | `언리얼5` | 시뮬레이션, 자동화 |
-| 2024 | [Unreal Gameplay Ability System](https://www.notion.so/Unreal-Gameplay-Ability-System-2476bb7765ae81989379ddb38636995e) | `언리얼5` | RPG |
-| 2023 | [Non Euclidean Geometry](https://www.notion.so/Non-Euclidean-Geometry-2476bb7765ae814797afcb4fdddf7717) | `언리얼5` | 3D 퍼즐 |
-| 2023 | [Project MIA](https://www.notion.so/Project-MIA-2476bb7765ae81f48b21ebe662bbee92) | `Three.js` | 3D 퍼즐 |
-| 2022 | [Tomorrow My Work](https://www.notion.so/Tomorrow-My-Work-2476bb7765ae8139ac95fcc845a2b8db) | `유니티` | 퍼즐, 탱그램 |
-| 2022 | [Rhythm Clock](https://www.notion.so/Rhythm-Clock-2476bb7765ae81f59d8fd7512557ad69) | `유니티` | 리듬게임 |
-| 2021 | [Helicopter and terrain](https://www.notion.so/Helicopter-and-terrain-2476bb7765ae812ab625d5b242309e77) | `Webgl2` | 시뮬레이션 |
-| 2021 | [Luxo Lamp](https://www.notion.so/Luxo-Lamp-2476bb7765ae8193a78ae20cde5c2c77) | `Three.js` | 시뮬레이션 |
+| 2025 | [ProceduralWorld - 3D WFC System](https://github.com/devouring123/ProceduralWorld) | `언리얼5` | 시뮬레이션 |
+| 2024 | [WFC2D - Wave Function Collapse 2D 지형 생성기](https://github.com/devouring123/WFC2D) | `언리얼5` | 시뮬레이션, 자동화 |
+| 2024 | [Unreal Gameplay Ability System](https://github.com/devouring123/HeroesOfStarRail) | `언리얼5` | RPG |
+| 2023 | Non Euclidean Geometry | `언리얼5` | 3D 퍼즐 |
+| 2023 | Project MIA | `Three.js` | 3D 퍼즐 |
+| 2022 | [Tomorrow My Work](https://github.com/devouring123/PandoraCube_GameJam_2021_Winter) | `유니티` | 퍼즐, 탱그램 |
+| 2022 | Rhythm Clock | `유니티` | 리듬게임 |
+| 2021 | [Helicopter and terrain](https://github.com/devouring123/Helicopter-and-terrain) | `Webgl2` | 시뮬레이션 |
+| 2021 | [Luxo Lamp](https://github.com/devouring123/Luxo-Lamp) | `Three.js` | 시뮬레이션 |
 
 ---
 
